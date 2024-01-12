@@ -1,1 +1,1 @@
-# Quiz-Game-2
+I made this project for my school project. You can use it as you wish.
